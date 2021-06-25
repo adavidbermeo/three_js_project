@@ -1,0 +1,4 @@
+name: mythreecode
+recipe: lamp
+config:
+  webroot: .
